@@ -1,6 +1,8 @@
 # Concert Hall Monitoring System 
 UCSD ECE 257B
 
+Harshith Nagubandi & Rahul Sai Kumar Polisetti
+
 ## Installation
 
 Requires:
