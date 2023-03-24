@@ -48,6 +48,7 @@ Run the jupyter notebook
 ```
 jupyter notebook ece257_project.ipynb
 ```
+The notebook will already be run and saved. If you rerun the code, please wait for around 20 min for the notebook to run till completion to train the neural networks and generate the plots.
 
 
 
