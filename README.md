@@ -7,13 +7,16 @@ Harshith Nagubandi & Rahul Sai Kumar Polisetti
 
 Requires:
 - conda
+- jupyter notebook
 - python 3.9.5
 - pandas
 - numpy
-- jupyter notebook
 - sklearn
 - seaborn
 - plotly
+- matplotlib
+- pytorch
+- scipy
 
 Clone the repository using
 ```
@@ -37,5 +40,12 @@ conda deactivate
 ## Usage
 
 The data we used is stored in [data](https://github.com/ece257b/concert_hall_monitor/Raw_data) folder
+
+Run the jupyter notebook
+
+```
+jupyter notebook ece257_project.ipynb
+```
+
 
 
